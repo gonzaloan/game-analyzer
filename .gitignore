@@ -65,7 +65,6 @@ temp/
 frames/
 
 # Videos de prueba (pueden ser muy grandes)
-*.mp4
 *.avi
 *.mov
 *.mkv
